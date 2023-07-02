@@ -1,4 +1,4 @@
-include <cstdio>
+#include <cstdio>
 struct pt
 {
     int x, y;
